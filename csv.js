@@ -10,7 +10,6 @@ fs.createReadStream('datos.csv')
     console.log('CSV file successfully processed');
   });
 
-row.Notification.forEach(e =>{
-    console.log(e.Contents);
-    console.log(e.Contents.Message);
-})
+
+
+
